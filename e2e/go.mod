@@ -8,7 +8,8 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.2
 	github.com/cosmos/ibc-go/v6 v6.0.0-alpha1
 	github.com/cosmos/interchain-accounts v0.4.0
-	github.com/docker/docker v20.10.17+incompatible
+	github.com/docker/docker v24.0.9+incompatible
+	github.com/gogo/protobuf v1.3.3
 	github.com/strangelove-ventures/ibctest/v6 v6.0.0-20221005154709-b642157674bc
 	github.com/stretchr/testify v1.8.1
 	github.com/tendermint/tendermint v0.34.21
@@ -76,7 +77,6 @@ require (
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/gogo/gateway v1.1.0 // indirect
-	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
@@ -152,7 +152,6 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
 	github.com/rs/cors v1.8.2 // indirect
 	github.com/sasha-s/go-deadlock v0.2.1-0.20190427202633-1595213edefa // indirect
-	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/spf13/afero v1.8.2 // indirect
